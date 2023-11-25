@@ -1,7 +1,7 @@
 {
   "id": "settings",
   "label": "Settings",
-  "format": "page",
+  "format": "custom",
   "repeatable": false,
   "status": true,
   "json": {
@@ -50,33 +50,6 @@
             }
           }
         }
-      },
-      "slices": {
-        "type": "Slices",
-        "fieldset": "Slice Zone",
-        "config": {
-          "choices": {}
-        }
-      }
-    },
-    "SEO & Metadata": {
-      "meta_image": {
-        "config": {
-          "constraint": {
-            "height": 1260,
-            "width": 2400
-          },
-          "label": "Meta Image",
-          "thumbnails": []
-        },
-        "type": "Image"
-      },
-      "meta_title": {
-        "config": {
-          "label": "Meta Title",
-          "placeholder": "A title of the page used for social media and search engines"
-        },
-        "type": "Text"
       }
     }
   }
