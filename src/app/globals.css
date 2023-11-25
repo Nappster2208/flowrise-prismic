@@ -4,6 +4,7 @@
    
   h1 {
     font-family: var(--font-nunito);
+    font-size: larger;
   }
 
   body {
