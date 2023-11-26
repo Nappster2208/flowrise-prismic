@@ -1,0 +1,109 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Robust features",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"icon",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "calendar",
+							"type": "Select"
+						}
+					],
+					[
+						"title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "heading3",
+									"content": {
+										"text": "Before"
+									}
+								}
+							]
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Excepteur ex ullamco irure nostrud adipisicing eiusmod velit est. Laborum nulla nostrud non ipsum. Esse tempor minim eu ullamco."
+									}
+								}
+							]
+						}
+					]
+				]
+			},
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"icon",
+						{
+							"__TYPE__": "FieldContent",
+							"type": "Select",
+							"value": "bargraph"
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Excepteur ex ullamco irure nostrud adipisicing eiusmod velit est. Laborum nulla nostrud non ipsum. Esse tempor minim eu ullamco.",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					],
+					[
+						"title",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "heading3",
+									"content": {
+										"text": "After1",
+										"spans": []
+									},
+									"direction": "ltr"
+								}
+							]
+						}
+					]
+				]
+			}
+		]
+	}
+]
